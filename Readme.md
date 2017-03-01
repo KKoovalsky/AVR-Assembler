@@ -1,0 +1,1 @@
+This repo contains some avr assembler code tested with STK500 module on my AVR assembler classes.
